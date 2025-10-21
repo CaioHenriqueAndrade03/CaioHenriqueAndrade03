@@ -11,7 +11,7 @@ Sou estudante de Engenharia da Computação e desenvolvedor de software, buscand
 ### Projetos em destaque
 [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/CaioHenriqueAndrade03/YouTube-downloader)
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/CaioHenriqueAndrade03/Jogo-Numero-Secreto) 
-[![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/CaioHenriqueAndrade03/SeuRepoGo)
+[![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/CaioHenriqueAndrade03/Go-lang)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHenriqueAndrade03&hide_progress=true)
 
