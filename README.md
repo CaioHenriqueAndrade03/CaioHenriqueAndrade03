@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Caio 👋🏻
-Sou estudante de Engenharia da Computação e desenvolvedor de software, buscando criar soluções práticas e melhorar minhas habilidades constantemente.
+Sou desenvolvedor de software, buscando criar soluções práticas e melhorar minhas habilidades constantemente.
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaioHenriqueAndrade03)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chsa_2003/)
