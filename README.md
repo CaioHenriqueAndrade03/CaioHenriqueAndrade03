@@ -13,8 +13,6 @@ Sou desenvolvedor de software, buscando criar soluções práticas e melhorar mi
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/CaioHenriqueAndrade03/Jogo-Numero-Secreto) 
 [![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/CaioHenriqueAndrade03/Go-lang)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHenriqueAndrade03&hide_progress=true)
-
 ---
 
 ## Tecnologias que tive a oportunidade de usar
