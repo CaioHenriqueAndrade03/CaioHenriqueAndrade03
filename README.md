@@ -4,7 +4,7 @@
 Desenvolvedor Backend e estudante de Engenharia da Computação nos últimos períodos da graduação.
 Tenho foco em desenvolvimento de APIs, na melhoria de processos e qualidade de código.
 Atualmente estou aprofundando conhecimentos em arquitetura de software, boas práticas e CI/CD.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/caio-andrade-aa8325240)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/caio-andrade-aa8325240](https://www.linkedin.com/in/caio-andrade-aa8325240/))
 
 - Experiência com desenvolvimento de APIs REST
 - Conhecimentos em AWS e CI/CD
